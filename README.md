@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to Culsome's Page
 
-You can use the [editor on GitHub](https://github.com/culsome/culsom.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Motto: The Man Focusing on One Thing is Charming.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+---
 
-### Markdown
+## 🎉 **Welcome** {#Welcom}
+Welcome you! I'm a phD studengt at Tsinghua University. Nice to meet you here, my friends
+* I like to communicate with people around the world.
+* Hiking, rock climbing and swimming are my favorite sports.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 📈 **Research** {#Research}
+My research is mainly about water ecology. Specifically
+* The dynamics of microorganisms in water under human disturbance and global warming.
+* Assess the status of eukaryotes (especially fishes) in water with environmetal DNA technology.
+* Biological assessments of water bodies.
 
-```markdown
-Syntax highlighted code block
+## 🚩 **Learning** {#Learning}
+Now, I am learning about bioinformatics, So I can explore the amazing world of creatures more efficiently.
+I'm curious about bioinformatics. It's amazing that ATCG and 21 Amino acids have so much power.
+Do you have the same feeling with me?
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+### culsome
+> * School of Environment Science, Tsinghua University, Beijing, China
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/culsome/culsom.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
